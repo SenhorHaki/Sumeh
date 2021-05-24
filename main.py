@@ -1,6 +1,5 @@
 #Arquivo principal.
 import speech_recognition as sr
-import pyaduio
 
 #cria um reconhecedor
 r = sr.Recognizer()
