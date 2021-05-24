@@ -6,8 +6,7 @@ Criado por um dos quatro - SrHaki
  Servir como módulo para inserir no projeto S-Project #0432 - codinome Ryse of Ascension
 
 Foco:
-    Fácil de aprender.
-    Rapido e expánsivel
+    Fácil,Rapido e expánsivel
 
 Técnologia:
     Reconhecimento de voz.
